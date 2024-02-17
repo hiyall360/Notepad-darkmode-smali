@@ -15,8 +15,7 @@ For obvious reasons, make sure your Notepad++ is set to Dark Mode, and the style
 
 ![SmaliDark2](https://github.com/hiyall360/Notepad-darkmode-smali/assets/20654859/9d3a389f-dabf-4ed6-891d-1198ac71f069)
 
-![notepad++_j4bx6QmpT9](https://github.com/hiyall360/Notepad-darkmode-smali/assets/20654859/595592d4-6177-4020-933f-5cfd7e6cc6b1)
-
+![notepad++_Wo2bZwYz8y](https://github.com/hiyall360/Notepad-darkmode-smali/assets/20654859/072637f4-5461-4463-a37d-16edc735d41a)
 ## Credit:
 
 [Jasi2169](https://github.com/hiyall360/Notepad-darkmode-smali/releases/tag/release) (for the light mode smali syntax)
