@@ -4,7 +4,7 @@ Notepad++ smali syntax highlighting for Dark Mode
 ## Installation:
 1. Open Notepad++ and go into the "Languages" tab
 2. Inside "User Defined Language" choose "Define your Language"
-3. Choose "Import" and select the downloaded .xml from this repo.
+3. Choose "Import" and select the downloaded .xml from this repo (found in [Releases](https://github.com/hiyall360/Notepad-darkmode-smali/releases/tag/release)).
 4. Restart Notepad++ (If changes don't appear right away, make sure to choose "Smali-Dark" from the "Languages" tab
 
 ### Notes:
@@ -17,6 +17,6 @@ For obvious reasons, make sure your Notepad++ is set to Dark Mode, and the style
 
 ![notepad++_j4bx6QmpT9](https://github.com/hiyall360/Notepad-darkmode-smali/assets/20654859/595592d4-6177-4020-933f-5cfd7e6cc6b1)
 
-### Credit:
+## Credit:
 
-https://github.com/Jasi2169/smali-syntax-highlighting-for-notepad- (Jasi2169 for the light mode smali syntax)
+[Jasi2169](https://github.com/hiyall360/Notepad-darkmode-smali/releases/tag/release) (for the light mode smali syntax)
