@@ -18,4 +18,4 @@ For obvious reasons, make sure your Notepad++ is set to Dark Mode, and the style
 ![notepad++_Wo2bZwYz8y](https://github.com/hiyall360/Notepad-darkmode-smali/assets/20654859/072637f4-5461-4463-a37d-16edc735d41a)
 ## Credit:
 
-[Jasi2169](https://github.com/hiyall360/Notepad-darkmode-smali/releases/tag/release) (for the light mode smali syntax)
+[Jasi2169](https://github.com/Jasi2169/smali-syntax-highlighting-for-notepad-) (for the light mode smali syntax)
